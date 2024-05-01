@@ -5,9 +5,7 @@ public class Contador {
     public static void main(String[] args) throws Exception {
 
         Scanner scanner = new Scanner(System.in);
-        
-        System.out.println("Digite os números");
-
+    
         int num1 = scanner.nextInt(),
                 num2 = scanner.nextInt();
 
